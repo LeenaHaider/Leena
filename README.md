@@ -2,10 +2,7 @@ Hello, I’m Leena!
 
 About
 
-
 CV
-$ mkdir my-website
-$ git clone https://github.com/[username]/[username].github.io
 
 Contact Me
 
